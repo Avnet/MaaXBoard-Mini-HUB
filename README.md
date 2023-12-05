@@ -48,7 +48,7 @@ The i.MX 8M device is architected with 2 separate processing domains: The applic
 
 ### Form Factor & Interfaces
 <p align="center">
-    <img src="https://github.com/Avnet/MaaXBoard-Mini-HUB/assets/88205887/ecdb5339-63cc-49ff-8439-e3502a639cc5" width="500">
+    <img src="https://github.com/Avnet/MaaXBoard-Mini-HUB/assets/88205887/fa4eeefe-822b-4aa7-a15c-6754e1fa365b" width="500">
 </p>
 MaaXBoard Mini is engineered in compact Raspberry Pi form-factor, which supports a versatile set of I/O interfaces. These include Gigabit Ethernet, quad USB 2.0 host interfaces, MIPI DSI display and MIPI CSI camera interfaces, Wi-Fi 802.11 b/g/n/ac, Bluetooth 4.2 (BLE), Onboard Ceramic Antenna with an optional external antenna support, a Pi-HAT compatible 40-pin header and Audio Expansion.
 
