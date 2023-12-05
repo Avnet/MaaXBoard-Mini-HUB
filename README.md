@@ -1,6 +1,6 @@
 # MaaXBoard-Mini-HUB
 <p align="center">
-    <img src="">
+    <img src="https://github.com/Avnet/MaaXBoard-Mini-HUB/assets/88205887/1afc265c-0d1c-4831-a0b6-7d81c94fe3be">
 </p>
 
 Welcome to the information hub for MaaXBoard Mini, featuring the [NXP i.MX 8M Mini](https://www.nxp.com/products/processors-and-microcontrollers/arm-processors/i-mx-applications-processors/i-mx-8-applications-processors/i-mx-8m-mini-arm-cortex-a53-cortex-m4-audio-voice-video:i.MX8MMINI) applications processor based on Arm® Cortex®-A53 and Cortex-M4 cores provide advanced audio, voice and video processing for applications that scale from consumer home audio to industrial building automation and mobile computers. This repository serves as a central hub for all resources related to MaaXBoard Mini. <br />
@@ -50,7 +50,7 @@ The i.MX 8M device is architected with 2 separate processing domains: The applic
 
 ### Form Factor & Interfaces
 <p align="center">
-    <img src="" width="500">
+    <img src="https://github.com/Avnet/MaaXBoard-Mini-HUB/assets/88205887/ecdb5339-63cc-49ff-8439-e3502a639cc5" width="500">
 </p>
 MaaXBoard Mini is engineered in compact Raspberry Pi form-factor, which supports a versatile set of I/O interfaces. These include Gigabit Ethernet, quad USB 2.0 host interfaces, MIPI DSI display and MIPI CSI camera interfaces, Wi-Fi 802.11 b/g/n/ac, Bluetooth 4.2 (BLE), Onboard Ceramic Antenna with an optional external antenna support, a Pi-HAT compatible 40-pin header and Audio Expansion.
 
