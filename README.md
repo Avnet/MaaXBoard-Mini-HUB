@@ -1,7 +1,5 @@
 # MaaXBoard-Mini-HUB
-<p align="center">
-    <img src="https://github.com/Avnet/MaaXBoard-Mini-HUB/assets/88205887/1afc265c-0d1c-4831-a0b6-7d81c94fe3be">
-</p>
+![Title](https://github.com/Avnet/MaaXBoard-Mini-HUB/assets/88205887/1afc265c-0d1c-4831-a0b6-7d81c94fe3be)
 
 Welcome to the information hub for MaaXBoard Mini, featuring the [NXP i.MX 8M Mini](https://www.nxp.com/products/processors-and-microcontrollers/arm-processors/i-mx-applications-processors/i-mx-8-applications-processors/i-mx-8m-mini-arm-cortex-a53-cortex-m4-audio-voice-video:i.MX8MMINI) applications processor based on Arm® Cortex®-A53 and Cortex-M4 cores provide advanced audio, voice and video processing for applications that scale from consumer home audio to industrial building automation and mobile computers. This repository serves as a central hub for all resources related to MaaXBoard Mini. <br />
 
