@@ -120,14 +120,14 @@ Available accessory options include a [MIPI 7-inch display](https://www.avnet.co
 
 ## Getting Started and Manuals
 ### Product Brief
-[MaaXBoard Mini Product Brief](https://www.avnet.com/wps/wcm/connect/onesite/d40a297c-2805-4c5f-af34-cc246ac3e2da/FY23_800_Maaxboard_Mini_Product_Brief_al_r3.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE.Z18_NA5A1I41L0ICD0ABNDMDDG0000-d40a297c-2805-4c5f-af34-cc246ac3e2da-oePBp21)
+[MaaXBoard Mini Product Brief](https://www.avnet.com/wcm/connect/d40a297c-2805-4c5f-af34-cc246ac3e2da/FY25_1574_Tria_Maaxboard_Mini_Product_Brief-2_vp.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-d40a297c-2805-4c5f-af34-cc246ac3e2da-pm6msEQ)
 
 ### Software Documents
-[MaaXBoard Mini Linux Yocto User Manual](https://www.avnet.com/wps/wcm/connect/onesite/f22bffbe-06e1-42f2-9952-5f8975302e3e/MaaXBoard_Mini-Linux-Yocto-UserManual-V2.0.pdf?MOD=AJPERES&CVID=oLeRkB1)
+[MaaXBoard Mini Linux Yocto User Manual](https://www.avnet.com/wcm/connect/a1d48ca9-a3f9-4423-bac2-f60f82ffb85b/MaaXBoard-Mini-Linux-Yocto-UserManual-V2.0.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-a1d48ca9-a3f9-4423-bac2-f60f82ffb85b-oFe8sVG)
 
-[MaaXBoard Mini Linux Yocto Development Guide](https://www.avnet.com/wps/wcm/connect/onesite/81853285-72b0-4192-993d-2f0e12b666a2/MaaXBoard_Mini-Linux-Yocto-Development_Guide-V2.0.pdf?MOD=AJPERES&CVID=oLeObCl)
+[MaaXBoard Mini Linux Yocto Development Guide](https://www.avnet.com/wcm/connect/9a31960c-201d-467d-862b-ef0af00cd866/MaaXBoard-Mini-Linux-Yocto-Development_Guide-V2.0.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-9a31960c-201d-467d-862b-ef0af00cd866-oFe8iKg)
 
-[MaaXBoard Mini Linux Yocto Release Note](https://www.avnet.com/wps/wcm/connect/onesite/003de601-0afd-41c6-a027-c480dd00061c/MaaXBoard-Mini-Linux-Yocto-ReleaseNote-V2.0.pdf?MOD=AJPERES&CVID=oLeTCgX)
+[MaaXBoard Mini Linux Yocto Release Note](https://avtinc.sharepoint.com/:b:/t/ET-Downloads/EfS5CennY8FKlxHXFrwfAosB1jx8pG6aGw5GqW89HrQGaQ?e=heYDvY)
 
 ### Getting Started Guides
 [MaaXBoard Mini Android User Manual V1.0-EN](https://www.avnet.com/wps/wcm/connect/onesite/7184c5c1-6339-4d81-ac54-65ffb8e57b5d/MaaXBoard_Mini-Android-UserManual-V1.0-EN.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE.Z18_NA5A1I41L0ICD0ABNDMDDG0000-7184c5c1-6339-4d81-ac54-65ffb8e57b5d-nygepxY)
