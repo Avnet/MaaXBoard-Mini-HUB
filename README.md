@@ -127,7 +127,7 @@ Available accessory options include a [MIPI 7-inch display](https://www.avnet.co
 
 [MaaXBoard Mini Linux Yocto Development Guide](https://www.avnet.com/wcm/connect/9a31960c-201d-467d-862b-ef0af00cd866/MaaXBoard-Mini-Linux-Yocto-Development_Guide-V2.0.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-9a31960c-201d-467d-862b-ef0af00cd866-oFe8iKg)
 
-[MaaXBoard Mini Linux Yocto Release Note](https://avtinc.sharepoint.com/:b:/t/ET-Downloads/EfS5CennY8FKlxHXFrwfAosB1jx8pG6aGw5GqW89HrQGaQ?e=heYDvY)
+[MaaXBoard Mini Linux Yocto Release Note](https://www.avnet.com/wcm/connect/9bf9b035-9276-4583-bb1b-8253a99595af/MaaXBoard-Linux-ReleaseNote-V1.2.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-9bf9b035-9276-4583-bb1b-8253a99595af-nubRh1m)
 
 ### Getting Started Guides
 [MaaXBoard Mini Android User Manual V1.0-EN](https://www.avnet.com/wps/wcm/connect/onesite/7184c5c1-6339-4d81-ac54-65ffb8e57b5d/MaaXBoard_Mini-Android-UserManual-V1.0-EN.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE.Z18_NA5A1I41L0ICD0ABNDMDDG0000-7184c5c1-6339-4d81-ac54-65ffb8e57b5d-nygepxY)
